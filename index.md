@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: GitHub Pages Exercise
 ---
+
+# Hello!
